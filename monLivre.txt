@@ -1,3 +1,6 @@
 =Mon Livre
 == Chapitre 1
+Proverbe :
+***
 "Pour bien connaitre les autres, il faut se connaitre d’abord soi-meme."
+***
